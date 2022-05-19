@@ -1,0 +1,8 @@
+C:\Users\CHIN\source\repos\OP-2 Labs\Lab_3_cs\bin\Debug\Lab_3_cs.exe.config
+C:\Users\CHIN\source\repos\OP-2 Labs\Lab_3_cs\bin\Debug\Lab_3_cs.exe
+C:\Users\CHIN\source\repos\OP-2 Labs\Lab_3_cs\bin\Debug\Lab_3_cs.pdb
+C:\Users\CHIN\source\repos\OP-2 Labs\Lab_3_cs\obj\Debug\Lab_3_cs.csproj.AssemblyReference.cache
+C:\Users\CHIN\source\repos\OP-2 Labs\Lab_3_cs\obj\Debug\Lab_3_cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\CHIN\source\repos\OP-2 Labs\Lab_3_cs\obj\Debug\Lab_3_cs.csproj.CoreCompileInputs.cache
+C:\Users\CHIN\source\repos\OP-2 Labs\Lab_3_cs\obj\Debug\Lab_3_cs.exe
+C:\Users\CHIN\source\repos\OP-2 Labs\Lab_3_cs\obj\Debug\Lab_3_cs.pdb
